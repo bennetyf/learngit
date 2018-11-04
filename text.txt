@@ -1,2 +1,3 @@
 This is to be deleted.
 This is fixing conflicts.
+ADD MERGE
