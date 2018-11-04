@@ -1,2 +1,2 @@
 This is to be deleted.
-This is on branch master.
+This is fixing conflicts.
