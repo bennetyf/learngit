@@ -1,3 +1,5 @@
 This is to be deleted.
 This is fixing conflicts.
 ADD MERGE
+This is the bug to be fixed.
+We want to fix the bug.
